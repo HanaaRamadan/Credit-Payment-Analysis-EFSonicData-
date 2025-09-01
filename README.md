@@ -1,6 +1,6 @@
 # EFSonic_-credit-payment-details
 
-📌 Query: Customer Credit & Collection Analysis
+📌 Query: Credit & Payment Analysis (EFSonicData)
 
 Description
 This query provides a detailed accounts receivable and credit control report. It shows customers’ invoices, payments, outstanding balances, credit terms, overdue days, and monthly credit violations.
